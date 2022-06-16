@@ -67,7 +67,10 @@
 // }
 
 // example-5
-for(i=0;i<=50;i++){
-    console.log("you are going to learn JS"+i);
-}
+// for(i=0;i<=50;i++){
+//     console.log("you are going to learn JS"+i);
+// }
+
+//example-6
+
 
