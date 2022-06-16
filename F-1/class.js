@@ -195,5 +195,4 @@
 
 // stringTypes
 
-// let bala="vijay,krishna"
 
